@@ -1,1 +1,1 @@
-FROM webdevops/bootstrap:latest
+FROM node:latest
